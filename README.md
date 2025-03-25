@@ -13,18 +13,6 @@
 
 <br />
 
-<!-- Skills -->
-<p>
-    <h1>Skills 👾</h1>
-    <img src="https://skillicons.dev/icons?i=react,spring,nodejs,expressjs,redux,next" />
-    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,c,html,css,python,solidity" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins" />
-    <img src="https://skillicons.dev/icons?i=postman,notion,figma,ai" />
-</p>
-
-<br />
-
-<h2>Programming Humor for you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="20" height="20" /></h2>
+<h1>Programming Humor for you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="20" height="20" /></h1>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry&hideBorder&layout=compact)
